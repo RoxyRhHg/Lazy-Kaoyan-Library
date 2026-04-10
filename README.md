@@ -105,14 +105,19 @@
 - **Mousewheel Image Zoom**：查看图解时更舒服；
 - **OZ Clear Unused Images**：清理无用图片；
 - **Obsidian Git**：做版本管理和同步时很省心；
+- **Callout Manager**：一键管理所有 Call out
+- **Editing-toolbar**：整合常用书写工具，obsiidna word化
+- **Floating -toc**：悬浮目录，快速定位
 - **Claudian**：直接接入 AI 对话，强烈安利
 
 
-## 主题与界面建议
 
+
+## 主题与界面建议
+![[README.png]]
 当前仓库配置中使用了：
 
-- **Blue Topaz**的 Topaz-Nord 主题；
+- **Blue Topaz**的 Topaz-Nord 主题，深色模式；
 - **Style Settings** 做样式细调；
 - 若干 CSS Snippets（如页面宽度、图片居中、隐藏标题等）。
 - 字体：京华老宋体
