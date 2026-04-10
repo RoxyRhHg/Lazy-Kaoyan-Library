@@ -147,7 +147,7 @@
 ## 致谢
 
 本项目的灵感主要来源于：`Math-And-English-Library`与`Pkmer-Math`。
-感谢去年夏天最好的 `Gemini 2.5 pro` 与 `AI Studio` ，没有 Gemini 也没有这个仓库和今天的笔者。
+感谢去年夏天最好的 `Gemini 2.5 pro` 与 `AI Studio` ，没有 Gemini 也就没有这个仓库和今天的笔者。
 感谢`paddleocr`对本项目的 ocr 支持。
 
 ## 写在最后面的话
