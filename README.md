@@ -114,7 +114,8 @@
 
 
 ## 主题与界面建议
-![[README.png]]
+<img width="1512" height="1339" alt="image" src="https://github.com/user-attachments/assets/fbfd1844-bdc2-4bc4-b0c3-3880fe9a854a" />
+
 当前仓库配置中使用了：
 
 - **Blue Topaz**的 Topaz-Nord 主题，深色模式；
