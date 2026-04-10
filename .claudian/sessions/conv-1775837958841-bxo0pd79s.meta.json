@@ -1,0 +1,26 @@
+{
+  "id": "conv-1775837958841-bxo0pd79s",
+  "providerId": "codex",
+  "title": "回去写README点MD，然后各种插件依赖，比如说Style Settings、Code Runne...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775837958842,
+  "updatedAt": 1775840058685,
+  "lastResponseAt": 1775840058685,
+  "sessionId": "019d7830-d565-7530-a6e1-3aba09145620",
+  "providerState": {
+    "threadId": "019d7830-d565-7530-a6e1-3aba09145620",
+    "sessionFilePath": "C:\\Users\\97903\\.codex\\sessions\\2026\\04\\11\\rollout-2026-04-11T00-19-19-019d7830-d565-7530-a6e1-3aba09145620.jsonl",
+    "transcriptRootPath": "C:\\Users\\97903\\.codex\\sessions"
+  },
+  "currentNote": "README.md",
+  "usage": {
+    "inputTokens": 94505,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 94336,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 94505,
+    "percentage": 10,
+    "model": "gpt-5.4"
+  }
+}

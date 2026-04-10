@@ -1,0 +1,25 @@
+{
+  "id": "conv-1775752597548-gvb9zzbe5",
+  "providerId": "codex",
+  "title": "把数一_整理下的所有type是方法的文件全移动到数一_整理/1 高数/0 汇总",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775752597549,
+  "updatedAt": 1775837821685,
+  "lastResponseAt": 1775752897003,
+  "sessionId": "019d731a-516a-77e3-93e6-6617ca72d6d1",
+  "providerState": {
+    "threadId": "019d731a-516a-77e3-93e6-6617ca72d6d1",
+    "sessionFilePath": "C:\\Users\\97903\\.codex\\sessions\\2026\\04\\10\\rollout-2026-04-10T00-36-37-019d731a-516a-77e3-93e6-6617ca72d6d1.jsonl",
+    "transcriptRootPath": "C:\\Users\\97903\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 36155,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35712,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36155,
+    "percentage": 4,
+    "model": "gpt-5.4"
+  }
+}

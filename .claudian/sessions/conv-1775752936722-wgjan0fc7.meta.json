@@ -1,0 +1,26 @@
+{
+  "id": "conv-1775752936722-wgjan0fc7",
+  "providerId": "codex",
+  "title": "调用ocr mcp把当前文件直接转录成obsidian的规范格式",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775752936722,
+  "updatedAt": 1775837822173,
+  "lastResponseAt": 1775805012087,
+  "sessionId": "019d7626-460d-7f83-9d3e-5ad1e57dac2f",
+  "providerState": {
+    "threadId": "019d7626-460d-7f83-9d3e-5ad1e57dac2f",
+    "sessionFilePath": "C:\\Users\\97903\\.codex\\sessions\\2026\\04\\10\\rollout-2026-04-10T14-48-33-019d7626-460d-7f83-9d3e-5ad1e57dac2f.jsonl",
+    "transcriptRootPath": "C:\\Users\\97903\\.codex\\sessions"
+  },
+  "currentNote": "数一_整理/1 高数/9 无穷级数/级数敛散性的判别方法.md",
+  "usage": {
+    "inputTokens": 53933,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 52480,
+    "contextWindow": 950000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 53933,
+    "percentage": 6,
+    "model": "gpt-5.4"
+  }
+}

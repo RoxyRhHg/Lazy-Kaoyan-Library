@@ -1,0 +1,22 @@
+# 忽略 Obsidian 本地配置与插件（多设备冲突根源）
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+​
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+​
+# 临时文件与日志
+*.tmp
+*.log
+​
+# 发布相关目录（如后续用 GitHub Pages 发布笔记）
+docs/
+site/
