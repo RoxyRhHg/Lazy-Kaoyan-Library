@@ -101,13 +101,12 @@
 - **Obsidian Mind Map NextGen**：用于思维导图类笔记；
 - **Excalidraw**：适合后续自己扩展图解、手绘和知识结构图；
 - **Easy Typing**：中文输入体验更顺手；
-- **Floating TOC**：长笔记目录浏览更方便；
+- **Floating TOC**：悬浮目录，快速定位
 - **Mousewheel Image Zoom**：查看图解时更舒服；
 - **OZ Clear Unused Images**：清理无用图片；
 - **Obsidian Git**：做版本管理和同步时很省心；
 - **Callout Manager**：一键管理所有 Call out
-- **Editing-toolbar**：整合常用书写工具，obsiidna word化
-- **Floating -toc**：悬浮目录，快速定位
+- **Editing-toolbar**：整合常用书写工具，obsidian word化
 - **Claudian**：直接接入 AI 对话，强烈安利
 
 
