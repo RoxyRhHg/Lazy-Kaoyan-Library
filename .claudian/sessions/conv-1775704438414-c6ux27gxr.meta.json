@@ -6,12 +6,7 @@
   "createdAt": 1775704438414,
   "updatedAt": 1775706729637,
   "lastResponseAt": 1775704470352,
-  "sessionId": "019d703b-774c-7e40-9c9f-c639ec4253ca",
-  "providerState": {
-    "threadId": "019d703b-774c-7e40-9c9f-c639ec4253ca",
-    "sessionFilePath": "C:\\Users\\97903\\.codex\\sessions\\2026\\04\\09\\rollout-2026-04-09T11-13-58-019d703b-774c-7e40-9c9f-c639ec4253ca.jsonl",
-    "transcriptRootPath": "C:\\Users\\97903\\.codex\\sessions"
-  },
+  "sessionId": null,
   "currentNote": "数一_整理/1 高数/1 函数 极限与连续/fig/间断点.png",
   "usage": {
     "inputTokens": 12617,

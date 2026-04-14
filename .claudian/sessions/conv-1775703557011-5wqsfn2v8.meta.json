@@ -6,12 +6,7 @@
   "createdAt": 1775703557012,
   "updatedAt": 1775706730404,
   "lastResponseAt": 1775704213392,
-  "sessionId": "019d702e-0472-7653-8c2f-994e4e6e6f99",
-  "providerState": {
-    "threadId": "019d702e-0472-7653-8c2f-994e4e6e6f99",
-    "sessionFilePath": "C:\\Users\\97903\\.codex\\sessions\\2026\\04\\09\\rollout-2026-04-09T10-59-17-019d702e-0472-7653-8c2f-994e4e6e6f99.jsonl",
-    "transcriptRootPath": "C:\\Users\\97903\\.codex\\sessions"
-  },
+  "sessionId": null,
   "usage": {
     "inputTokens": 47944,
     "cacheCreationInputTokens": 0,
